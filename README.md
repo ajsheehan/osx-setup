@@ -20,12 +20,6 @@ Then proceed to install applications
 	$ brew cask install spotify
 ## Visual Studio Code
 	$ brew cask install visual-studio-code
-
-## Xamarin Studio
-    $ xcode-select --install
-    $ brew cask install mono-mdk
-    $ brew cask install xamarin-studio
-
 ### settings.json
 ```javascript
 // Place your settings in this file to overwrite the default settings
@@ -63,3 +57,7 @@ Then proceed to install applications
     "terminal.integrated.fontFamily": "Inconsolata for Powerline"
 }
 ```
+## Xamarin Studio
+    $ xcode-select --install
+    $ brew cask install mono-mdk
+    $ brew cask install xamarin-studio
