@@ -8,7 +8,7 @@ Then proceed to install applications
 ## Google Chrome
 	$ brew cask install google-chrome
 ## Docker
-[Download](https://download.docker.com/mac/stable/Docker.dmg)
+[Download latest version of Docker for OS X](https://download.docker.com/mac/stable/Docker.dmg)
 ## Iterm2
 	$ brew cask install iterm2
 	$ https://github.com/wesbos/Cobalt2-iterm
@@ -58,6 +58,9 @@ Then proceed to install applications
 }
 ```
 ## Xamarin Studio
-    $ xcode-select --install
+[Download latest version of Xcode](https://developer.apple.com/download/)
+
     $ brew cask install mono-mdk
     $ brew cask install xamarin-studio
+    $ brew cask install xamarin-android
+    $ brew cask install xamarin-ios
