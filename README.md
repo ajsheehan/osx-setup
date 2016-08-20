@@ -62,7 +62,7 @@ Then proceed to install applications
 ## Xamarin Studio
 [Download latest version of Xcode](https://developer.apple.com/download/)
 
-    $ brew install Caskroom/versions/java7
+    $ brew cask install java
     $ brew cask install mono-mdk
     $ brew cask install xamarin-studio
     $ brew cask install xamarin-android
