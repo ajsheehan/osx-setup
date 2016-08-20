@@ -14,6 +14,8 @@ Then proceed to install applications
 	$ https://github.com/wesbos/Cobalt2-iterm
 ## Microsoft Office
 	$ brew cask install microsoft-office
+## Postman
+    $ brew cask install postman
 ## Spectacle
 	$ brew cask install spectacle
 ## Spotify
@@ -60,6 +62,7 @@ Then proceed to install applications
 ## Xamarin Studio
 [Download latest version of Xcode](https://developer.apple.com/download/)
 
+    $ brew install Caskroom/versions/java7
     $ brew cask install mono-mdk
     $ brew cask install xamarin-studio
     $ brew cask install xamarin-android
