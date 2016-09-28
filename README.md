@@ -1,19 +1,23 @@
 # System Preferences
 ## Dock
 * Select Automatically hide and show the Dock
+
 ## Security & Privacy
 * Select Allow your Apple Watch to Unlock your Mac
 * Enable FileVault
 * Turn on Firewall
+
 ## Keyboard
 * Slide Key Repeat all the way to Fast
 * Slide Delay Until Repeat all the way to Short
 * Select Use all F1, F2, etc. keys as standard function keys
 * Deselect Show Input menu in menu bar
+
 ## Mouse
 * Select Secondary click
 * Slide Tracking speed all the way to Fast
 * Select Swipe between pages
+
 ## Trackpad
 * Select Tap to click
 * Select App Exposé
