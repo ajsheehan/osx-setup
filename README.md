@@ -1,5 +1,30 @@
+# System Preferences
+## Dock
+* Select Automatically hide and show the Dock
+## Security & Privacy
+* Select Allow your Apple Watch to Unlock your Mac
+* Enable FileVault
+* Turn on Firewall
+## Keyboard
+* Slide Key Repeat all the way to Fast
+* Slide Delay Until Repeat all the way to Short
+* Select Use all F1, F2, etc. keys as standard function keys
+* Deselect Show Input menu in menu bar
+## Mouse
+* Select Secondary click
+* Slide Tracking speed all the way to Fast
+* Select Swipe between pages
+## Trackpad
+* Select Tap to click
+* Select App Exposé
+
 # Applications
-First install Homebrew and Cask
+First install Xcode Command Line Tools
+## Xcode Command Line Tools
+    $ xcode-select --install
+
+    Select `Install` once prompt opens
+Then install Homebrew and Cask
 ## Home-brew
 	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ## Cask
@@ -11,7 +36,8 @@ Then proceed to install applications
 [Download latest version of Docker for OS X](https://download.docker.com/mac/stable/Docker.dmg)
 ## Iterm2
 	$ brew cask install iterm2
-	$ https://github.com/wesbos/Cobalt2-iterm
+    $ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+[https://github.com/wesbos/Cobalt2-iterm](https://github.com/wesbos/Cobalt2-iterm)
 ## Microsoft Office
 	$ brew cask install microsoft-office
 ## Postman
