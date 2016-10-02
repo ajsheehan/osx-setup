@@ -1,6 +1,7 @@
 # System Preferences
 ## Dock
 * Select Automatically hide and show the Dock
+* Select Minimize windows into application icon
 
 ## Security & Privacy
 * Select Allow your Apple Watch to Unlock your Mac
