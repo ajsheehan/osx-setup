@@ -38,7 +38,7 @@ Then proceed to install applications
 ## Google Chrome
 	$ brew cask install google-chrome
 ## Docker
-[Download latest version of Docker for OS X](https://download.docker.com/mac/stable/Docker.dmg)
+    $ brew cask install docker
 ## Iterm2
 	$ brew cask install iterm2
     $ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
